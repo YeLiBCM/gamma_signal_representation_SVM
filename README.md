@@ -3,7 +3,7 @@
 
 This repository provides the code for implementing the machine learning modeling in the paper "Functionally Distinct Gamma Range Activity Revealed by Stimulus Tuning in Human Visual Cortex".
 
-If you are an neuroscientist, check the link of the paper to see the method: https://www.cell.com/current-biology/pdfExtended/S0960-9822(19)31020-6. And check the __main_SVM__ notebook to see the core code for the classification pipeline.
+If you are a neuroscientist, check the link of the paper to see the method: https://www.cell.com/current-biology/pdfExtended/S0960-9822(19)31020-6. And check the __main_SVM__ notebook to see the core code for the classification pipeline.
 
 If you are an beginner in brain sciense, or if you are just interested in how neuroscientist use machine learning in their research, here I will explain the research story and the method logic behind it in a simpler way.
 
@@ -40,7 +40,7 @@ Though I will not provide all the code used in my project, here is the method pi
 __If you want to know more__: <br>
 You may only need a few lines of code to implement the machine learning modeling for your research project! (See how less code is in my "main_SVM.ipynb") However, you can do lots of exploration and analysis to find out which model or what parameters to use.
 
-If you are interested in how I decide what model to use, check the notebook "find_model.ipynb".
+If you are interested in how I decide which model to use, check the notebook "find_model.ipynb".
 
 __Contact__: <br>
 Contact me (liye1992@gmail.com) if you have any question!
